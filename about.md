@@ -4,15 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Hi, I am Anvesh Kollu. I work as a data scientist at [Quotient](https://quotient.com). This is my personal website.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
 
 
-[jekyll-organization]: https://github.com/jekyll
+I would love to hear from you at [LinkedIn][https://linkedin.com/kanvesh] /[Twitter](https://twitter.com/decentgrad)
