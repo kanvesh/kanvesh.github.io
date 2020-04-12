@@ -24,7 +24,7 @@ github_username:  kanvesh
 
 # Build settings
 markdown: kramdown
-theme: lanyon
+theme: minima
 plugins:
   - jekyll-feed
 
