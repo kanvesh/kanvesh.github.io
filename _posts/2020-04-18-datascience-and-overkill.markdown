@@ -4,7 +4,7 @@ title:  "Data Science and Overkill"
 date:   2020-04-18 20:11:51 -0400
 categories: data science, analytics
 ---
-
+<i> I first published this as a LinkedIn article in Dec 2016 </i>
 
 `TL;DR Data Scientists do not come cheap. Use them wisely.`
 
