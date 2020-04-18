@@ -7,7 +7,6 @@ categories: datascience, analytics
 
 
 
-{% highlight %}
+{% highlight ruby %}
 TL;DR Data Scientists do not come cheap. Use them wisely.
 {% endhighlight %}
-

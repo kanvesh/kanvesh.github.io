@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Whatup Whatup"
 date:   2020-04-11 20:11:51 -0400
 categories: jekyll update
 ---
