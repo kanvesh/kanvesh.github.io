@@ -5,9 +5,8 @@ date:   2020-04-18 20:11:51 -0400
 categories: data science, analytics
 ---
 
-{% highlight  %}
-TL;DR Data Scientists do not come cheap. Use them wisely.
-{% endhighlight %}
+
+`TL;DR Data Scientists do not come cheap. Use them wisely.`
 
 Building machine learning models requires considerable amount of time, effort and skill. That much is well known. But what maybe not be obvious is that improving the performance of these models over and above a baseline is an exercise with greatly diminishing returns. Data science leaders would do well to understand the cost of iteratively fine-tuning these models and gauge it against business impact.
 
