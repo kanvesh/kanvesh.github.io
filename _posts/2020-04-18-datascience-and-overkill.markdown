@@ -2,7 +2,7 @@
 layout: post
 title:  "Data Science and Overkill"
 date:   2020-04-18 20:11:51 -0400
-categories: data science, analytics
+categories: [data science, analytics]
 ---
 
 
