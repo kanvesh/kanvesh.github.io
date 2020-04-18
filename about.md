@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 <img src="/assets/anvesh.jpg" alt="drawing" width="400"/>
-![mugshot](/assets/anvesh.jpg =400x)
 
 Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
 
