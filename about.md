@@ -17,9 +17,9 @@ Hit me up at [LinkedIn](https://linkedin.com/in/kanvesh) or [Twitter](https://tw
 
 #### yes, even hidden code blocks!
 
-```python
-print("hello world!")
-```
+Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
+
+
 
 </p>
 </details>
