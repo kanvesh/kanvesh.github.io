@@ -9,3 +9,17 @@ Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://qu
 
 
 Hit me up at [LinkedIn](https://linkedin.com/in/kanvesh) or [Twitter](https://twitter.com/decentgrad)
+
+## collapsible markdown?
+
+<details><summary>CLICK ME</summary>
+<p>
+
+#### yes, even hidden code blocks!
+
+```python
+print("hello world!")
+```
+
+</p>
+</details>
