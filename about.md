@@ -9,13 +9,3 @@ Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://qu
 
 
 Hit me up at [LinkedIn](https://linkedin.com/in/kanvesh) or [Twitter](https://twitter.com/decentgrad)
-
-
-<details><summary><b>About Me</b></summary>
-
-<p>
-Hi, I am <i>Anvesh Kollu</i>. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
-</p>
-
-
-</details>
