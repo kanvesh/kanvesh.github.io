@@ -10,16 +10,12 @@ Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://qu
 
 Hit me up at [LinkedIn](https://linkedin.com/in/kanvesh) or [Twitter](https://twitter.com/decentgrad)
 
-## collapsible markdown?
 
-<details><summary>CLICK ME</summary>
-<p>
+<details><summary>**About Me**</summary>
 
-#### yes, even hidden code blocks!
 
-Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
+Hi, I am _Anvesh Kollu_. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
 
 
 
-</p>
 </details>
