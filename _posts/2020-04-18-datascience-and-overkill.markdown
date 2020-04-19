@@ -18,12 +18,12 @@ Lets say you are trying to classify survey comments as positive, neutral or nega
 **One size does not fit all...**
 
 
-If you are modeling where exactly a tropical cyclone is going to have its landfall, errors can be extremely costly. However if you are power company who just wants to know how many days it is likely to snow in December, it does not matter if you are not accurate on a day-by-day basis as long as you are near the mark in aggregate. In the earlier case, it is imperative that we understand all possible nuances and spend great amounts of energy in making sure that the model is as accurate as possible. In the latter case, just looking up the average number of snow days over the last 5 years may be good enough for the use case and a model may not be required at all.
+If you are modeling where exactly a tropical cyclone is going to have its landfall, errors can be extremely costly. However if you are power company who just wants to know how many days it is likely to snow in December, it does not matter if you are not accurate on a day-by-day basis as long as you are near the mark in aggregate. In the earlier case, it is imperative that we understand all possible nuances and spend great amounts of energy in making sure that the model is as accurate as possible. In the latter case, just looking up the average number of snow days over the last 5 years may be good enough for the use case and a model may not be required at all.  
 
 
 <img src='/assets/dilbert-jargon.jpeg'>
 
 
-There is a lot of hype and expectation around data science and it is easy to get lost in the buzz of it all. Data science is undoubtedly a game changer, but it is essential for data scientists to focus on business impact, for that is what we will be judged on, in the long run.
+There is a lot of hype and expectation around data science and it is easy to get lost in the buzz of it all. Data science is undoubtedly a game changer, but it is essential for data scientists to focus on business impact, for that is what we will be judged on, in the long run.  
 
 <i> This blogpost was first published as a LinkedIn article in Dec 2016 </i>
