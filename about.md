@@ -9,4 +9,4 @@ permalink: /about/
 Hi, I am Anvesh Kollu. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
 
 
-Hit me up on [Twitter](https://twitter.com/decentgrad) or [Email](mailto:mail.anvesh@gmail.com) or [LinkedIn](https://linkedin.com/in/kanvesh) (if you really have to)
+Hit me up on [Twitter](https://twitter.com/decentgrad) or [Email](mailto:mail.anvesh@gmail.com) (or [LinkedIn](https://linkedin.com/in/kanvesh), if you really have to)
