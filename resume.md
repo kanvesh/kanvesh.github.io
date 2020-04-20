@@ -14,7 +14,7 @@ But if you want to hear me tell my story, this is what I would tell a new friend
 
 
 
-<details><summary><b>2005-2010: Electrical Engineering at IIT Madras (5 Years)</b></summary>
+<details><summary>2005-2010: Electrical Engineering at IIT Madras (5 Years)</summary>
 <br/>
 <p>
 Purely owing to my skill in arithmetic, I got into IIT Madras, (which is a prestigious engineering school in India), specifically the dual degree program in Electrical Engineering where you complete both Bachelors and Masters degrees in 5 years.
@@ -26,7 +26,7 @@ Once in, I realized that beating the competition and getting into an IIT was my 
 </details>
 
 
-<details><summary><b>2011-2014: Risk Analyst for Citi (Mumbai, India)(3 Years)</b></summary>
+<details><summary>2011-2014: Risk Analyst for Citi (Mumbai, India)(3 Years)</summary>
 <br/>
 <p>
 I basically took the first job I could find out of college, working for CitiBank through a consulting firm (TCS). I started working for their Risk Analytics group as a the lone developer building and maintaining their internal Microsoft Sharepoint website, and make it work on Internet Explorer 6 (ancient even back then, but then banks are like that). I did my job and people were happy with it, but I really had no hope of making it as a developer
@@ -41,7 +41,7 @@ So I started looking outside at companies hiring for modelers. I took at a <i>lo
 
 
 
-<details><summary><b>2014-2015: Sr. Analytics Consultant at [24]7.ai (Bangalore, India)</b></summary>
+<details><summary>2014-2015: Sr. Analytics Consultant at [24]7.ai (Bangalore, India)</summary>
 <br/>
 <p>
 Working at [24]7, a customer service company with a heavy emphasis on data science, was a huge leap into the fast lane of tech from the rather static world of banking. The data science group was about 50 strong and had incredible folks up and down the chain (many of whom went on to become influential figures in the Analytics/AI space later on). I was fortunate to be mentored by Mathangi who still remains my biggest professional infleunce.
