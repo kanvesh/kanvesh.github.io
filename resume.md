@@ -7,6 +7,9 @@ permalink: /resume/
 If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20.pdf).
 
 ---
+---
+---
+---
 
 But if you want to hear me tell my story, this is what I would tell a new friend in a bar. This is what I am calling my Honest Resume™
 
