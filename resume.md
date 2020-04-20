@@ -27,9 +27,11 @@ Once in, I realized that beating the competition and getting into an IIT was my 
 
 
 <details><summary><b>2011-2014: Risk Analyst for Citi</b></summary>
-
+<br/>
 <p>
-I basically took the first job I could fnd ouDespite lacklustre education, I still had some intrinsic skills, I was good at math and I enjoyed coding and building things.
+I basically took the first job I could find out of college, working for CitiBank through a consulting firm (TCS). I started working for their Risk Analytics division as a developer building and maintaining their internal Microsoft Sharepoint website.
+
+Despite lacklustre education, I still had some intrinsic skills, I was good at math and I enjoyed coding and building things.
 </p>
 
 </details>
