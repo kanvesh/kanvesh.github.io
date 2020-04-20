@@ -6,17 +6,8 @@ permalink: /resume/
 
 If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20.pdf).
 
----
----
----
----
-***
+<hr class="rounded">
 
----
-
-  _  _  _  _
-
----------------
 But if you want to hear me tell my story, this is what I would tell a new friend in a bar. This is what I am calling my Honest Resume™  
 
 <details><summary><b>2005-2010: Electrical Engineering at IIT Madras</b></summary>
