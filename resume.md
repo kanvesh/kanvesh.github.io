@@ -26,16 +26,29 @@ Once in, I realized that beating the competition and getting into an IIT was my 
 </details>
 
 
-<details><summary><b>2011-2014: Risk Analyst for Citi (3 Years)</b></summary>
+<details><summary><b>2011-2014: Risk Analyst for Citi (Mumbai, India)(3 Years)</b></summary>
 <br/>
 <p>
 I basically took the first job I could find out of college, working for CitiBank through a consulting firm (TCS). I started working for their Risk Analytics group as a the lone developer building and maintaining their internal Microsoft Sharepoint website, and make it work on Internet Explorer 6 (ancient even back then, but then banks are like that). I did my job and people were happy with it, but I really had no hope of making it as a developer
 
 But the core function of the group, credit risk modeling, was something I was really drawn to during this time. Numbers and probability, it felt right up my alley. So, I read some books  on modeling and talked to people to somehow make the switch into the modeling team, but no avail. Banks are fairly rigid and it is hard to cut through teams.
 
-So I started looking out
+So I started looking outside at companies hiring for modelers. I took at a <i>lot</i> of tried for me to land a job, but I ended up at a great place. Looking back, I should have probably left TCS earlier, but then the people were nice, the pay was good, I got married and time just flies by.
 
-Despite lacklustre education, I still had some intrinsic skills, I was good at math and I enjoyed coding and building things.
+</p>
+
+</details>
+
+
+
+<details><summary><b>2014-2015: Sr. Analytics Consultant at [24]7.ai (Bangalore, India)</b></summary>
+<br/>
+<p>
+Working at [24]7, a customer service company with a heavy emphasis on data science, was a huge leap into the fast lane of tech from the rather static world of banking. The data science group was about 50 strong and had incredible folks up and down the chain (many of whom went on to become influential figures in the Analytics/AI space later on). I was fortunate to be mentored by Mathangi who still remains my biggest professional infleunce.
+
+I worked mainly in building text-based Machine Learning models that classified customer service chats at scale. It was a joy to deploy these models as soon as they are built, watch their performance in real-time and go right back to tweaking them. We did build some fairly cutting edge NLP pipelines and even applied for patents (this is pre-word2vec era and has aged badly, I must say).
+
+While I was having a gala time at work, other stuff was happening on my personal front and grudingly my wife and me
 </p>
 
 </details>
