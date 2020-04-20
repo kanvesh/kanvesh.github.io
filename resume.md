@@ -6,10 +6,12 @@ permalink: /resume/
 
 If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20.pdf).
 
-<details><summary><b>About Me</b></summary>
+But if you want to hear me tell my story, this is what I would tell a friend in a bar.
+
+<details><summary><b>2005-2010: Electrical Engineering at IIT Madras</b></summary>
 
 <p>
-Hi, I am <i>Anvesh Kollu</i>. I lead a team of data scientists at [Quotient](https://quotient.com). This is my personal website.
+Purely owing to my skill in mathematics, I got into
 </p>
 
 
