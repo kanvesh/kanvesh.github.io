@@ -4,7 +4,7 @@ title: Resume
 permalink: /resume/
 ---
 
-If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20).
+If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20.pdf).
 
 <details><summary><b>About Me</b></summary>
 
