@@ -15,9 +15,7 @@ Far too often while interviewing candidates, I find myself trying to gleam the s
 <details><summary>2005-10: Electrical Engineering at IIT Madras:</summary>
 <br/>
 <p>
-I spent 5 years at IIT Madras, a prestigious engineering school in India, for my Bachelors and Masters degrees in Electrical Engineering.  Getting into an IIT was a big goal of mine and thanks to my strong math skills, I was able to crack the entrance exam. My engineering education itself was, unfortunately, not up to a high standard. Despite spurts of interest, I realized that I did not have a real passion for the subject. I did well enough to graduate and took the first job I was offered out of college.
-<br/>
-My thesis was on improving quality of video transmission over noisy channels and I was lucky to complete a part of the thesis as an exchange student in Sweden.
+I spent 5 years at IIT Madras, a prestigious engineering school in India, for my Bachelors and Masters degrees in Electrical Engineering.  Getting into an IIT was a big goal of mine and thanks to my strong math skills, I was able to crack the entrance exam. My engineering education itself was, unfortunately, not up to a high standard. Despite spurts of interest, I realized that I did not have a real passion for the subject. I did well enough to graduate, spent an interesting semester as an exchange student in Sweden and took the first job I was offered out of college.
 <br/>
 </p>
 </details>
@@ -45,7 +43,7 @@ We were able to build, deploy and track the results of new models, sometimes all
 <details><summary>2015-16: Masters in Analytics at Univ. of Cincinnati:</summary>
 <br/>
 <p>
-Though I took up the program mainly as a gateway to the USA, I happened to tremendously enjoy and excel at the courses on offer. I particularly enjoyed the statistics and probability courses that have laid strong foundation to my hitherto programmer-like approach to analytics. My thesis was on using unstructured call data to predict attrition among customers. I received several job offers and chose to join a startup in Cincinnati
+Though I took up the program mainly as a gateway to the USA, I happened to tremendously enjoy and excel at the courses on offer. The advanced statistics and probability courses that I took laid strong foundation to my hitherto programmer-like approach to analytics. I received several job offers and chose to join a startup named EBTH in Cincinnati.
 <br/>
 </p>
 </details>
@@ -53,7 +51,7 @@ Though I took up the program mainly as a gateway to the USA, I happened to treme
 <details><summary>2016-18: Data Scientist at EBTH:</summary>
 <br/>
 <p>
-I spent about 2 (awesome) years at Everything But The House (EBTH), a startup in Cincinnati, which at one point in 2017 was the most valuable startup in Cincinnati. EBTH is an online auction company which connects shoppers and collectors with valuable items in estates (a sort of high-end E-Bay). I was the first data scientist to be hired and I relished the opportunity to build things from scratch, right from the basics like creating a reporting framework, defining key metrics, building visualizations in Tableau to more cutting-edge work like deploying a recommender system and building a deep-learning based image recognition system into the app to identify and predict prices for items on sale. Unfortunately, the company eventually ran into funding issues and I had to seek greener pastures because of visa restrictions.
+I spent about 2 (awesome) years at Everything But The House (EBTH), a startup in Cincinnati, which at one point was the most valuable startup in Ohio. EBTH is an online auction platform which connects shoppers and collectors with valuable items in estates (a sort of high-end E-Bay). I was the first data scientist to be hired and I relished the opportunity to build things from scratch, right from the basics like creating a reporting framework, defining key metrics, building visualizations in Tableau to more cutting-edge work like implementing a recommender system and building a deep-learning based image recognition system to identify item category and predict auction price ranges. Unfortunately, the company eventually ran into funding issues and I moved to Quotient in Cincinnati.
 <br/>
 </p>
 </details>
@@ -62,7 +60,7 @@ I spent about 2 (awesome) years at Everything But The House (EBTH), a startup in
 <br/>
 <p>
 
-I presently work at Quotient (formerly coupons.com), a digital marketing company, that helps consumer goods companies and retailers reach the right audiences for their brands through promotions and media. I was hired as a Sr. Data Scientist and was promoted in Dec 2019 to lead a team of three data scientists.  The main focus of the team is to build custom audience segments for various campaigns at scale and subsequently measure the performance of these campaign with appropriate statistical rigor.
+I presently work at Quotient (formerly coupons.com), a digital marketing company, that helps consumer goods companies and retailers reach the right audiences for their brands through promotions and media. I was initially hired as a Sr. Data Scientist and was promoted in Dec 2019 to lead a team of three data scientists.  The main focus of the team is to build custom audience segments at scale and subsequently measure the performance of these campaigns with appropriate statistical rigor.
 <br/>
 </p>
 </details>
