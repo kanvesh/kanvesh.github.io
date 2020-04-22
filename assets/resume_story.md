@@ -63,7 +63,7 @@ I spent about 2 (awesome) years at Everything But The House (EBTH), a startup in
 <br/>
 <p>
 
-I presently work at Quotient (formerly coupons.com), a digital marketing company, that helps consumer goods companies and retailers reach the right audiences for their brands through promotions and media. I was hired as a Sr. Data Scientist and was promoted in Dec 2019 to lead a team of three data scientists.  The main focus of the team is to build custom audience segments for various campaigns at scale and subsequently measure the performance of these campaign with appropriate statistical rigor.
+I presently work at Quotient (formerly coupons.com), a digital marketing company, that helps consumer goods companies and retailers reach the right audiences for their brands through promotions and media. I was hired as a Sr. Data Scientist and was promoted in Dec 2019 to lead a team of three data scientists.  The main focus of the team is to build custom audience segments for various campaigns at scale and subsequently measure the performance of these campaign with appropriate statistical rigor. 
 <br/>
 </p>
 </details>
