@@ -15,7 +15,7 @@ Far too often while interviewing candidates, I find myself trying to gleam the s
 <details><summary>2005-10: Electrical Engineering at IIT Madras:</summary>
 <br/>
 <p>
-I spent 5 years at IIT Madras, a prestigious engineering school in India, for my Bachelors and Masters degrees in Electrical Engineering.  Getting into an IIT was a big goal of mine and thanks to my strong math skills, I was able to crack the entrance exam. My engineering education itself however, was unfortunately not up to a high standard. Despite spurts of interest, I realized that I did not have a real passion for the subject.
+I spent 5 years at IIT Madras, a prestigious engineering school in India, for my Bachelors and Masters degrees in Electrical Engineering.  Getting into an IIT was a big goal of mine and thanks to my strong math skills, I was able to crack the entrance exam. My engineering education itself was, unfortunately, not up to a high standard. Despite spurts of interest, I realized that I did not have a real passion for the subject. I did well enough to graduate and took the first job I was offered out of college.
 <br/>
 My thesis was on improving quality of video transmission over noisy channels and I was lucky to complete a part of the thesis as an exchange student in Sweden.
 <br/>
@@ -27,7 +27,7 @@ My thesis was on improving quality of video transmission over noisy channels and
 <p>
 For about 3 years, I worked for the Risk Analytics group at CitiBank, North America through a consulting company (TCS E-serve) in Mumbai. My role was mostly in building backend infrastructure to track and report the health of various credit risk models that Citi had deployed around the world. The data was housed in a Sharepoint repository and I used Javascript and VBA to automate the building and distribution of these health reports along with early warning flags.
 <br/>
-Though I enjoyed coding and building things, I was more fascinated by the statistical model building process and I felt that it was a better match for my skill and interest. After a few tries, I found out that moving teams within the org was not going to happen so I started looking outside.
+Though I enjoyed coding and building things, I was more fascinated by the statistical model building process and I felt that it was a better match for my skill and interest. Moving across teams within org turned to be harder than I imagined, so I started looking for hands-on modeling roles outside the company.
 <br/>
 </p>
 </details>
@@ -35,9 +35,9 @@ Though I enjoyed coding and building things, I was more fascinated by the statis
 <details><summary>2014-15: Analytics Consultant at 247.ai:</summary>
 <br/>
 <p>
-I spent an exciting year and half with the text mining team at 247.ai, a customer service company with a heavy emphasis on using data science to propel the business forward. The team's main focus was to utilize the text flowing through customer service chats to improve the quality of service. We built several machine learning models to answer questions like... What kind of complaints did we receive today? Can we tell if this person requires help with billing based on his/her browsing history in the last few minutes? Is the customer service agent being polite etc.
+I spent an exciting year and half with the text mining team at 247.ai (a customer service company with a heavy emphasis on using data science to propel the business forward). The team's main focus was to utilize the text flowing through customer service chats to improve the quality of service. We built several machine learning models to answer questions like <i>What kind of complaints did we receive today? Can we tell if this person requires help with billing based on his/her browsing history in the last few minutes? Is the customer service agent being polite etc.</i>
 <br/>
-We were able to build, deploy and track the results of new models, sometimes all within the span of a week. It was an eye-opening experience to see the direct and immediate impact that your product has on improving the lives real customers. I would have loved to continue in 247 for longer, but due to some personal issues, my wife and me decided to move out of Bangalore to the US.
+We were able to build, deploy and track the results of new models, sometimes all within the span of a week (compared to 6 month turn around times in a bank). It was an eye-opening experience to see the direct and immediate impact that your product has on improving the lives real customers. I would have loved to continue in 247.ai for longer, but due to some personal issues, my wife and me decided to move out of Bangalore to the US.
 <br/>
 </p>
 </details>
