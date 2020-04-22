@@ -64,3 +64,5 @@ I presently work at Quotient (formerly coupons.com), a digital marketing company
 <br/>
 </p>
 </details>
+<hr class="rounded">
+<hr class="rounded">
