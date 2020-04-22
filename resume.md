@@ -35,7 +35,6 @@ Though I enjoyed coding and building things, I was more fascinated by the statis
 <details><summary>2014-15: Analytics Consultant at 247.ai:</summary>
 <br/>
 <p>
-</details>
 I spent an exciting year and half with the text mining team at 247.ai, a customer service company with a heavy emphasis on using data science to propel the business forward. The team's main focus was to utilize the text flowing through customer service chats to improve the quality of service. We built several machine learning models to answer questions like... What kind of complaints did we receive today? Can we tell if this person requires help with billing based on his/her browsing history in the last few minutes? Is the customer service agent being polite etc.
 
 We were able to build, deploy and track the results of new models, sometimes all within the span of a week. It was an eye-opening experience to see the direct and immediate impact that your product has on improving the lives real customers. I would have loved to continue in 247 for longer, but due to some personal issues, my wife and me decided to move out of Bangalore to the US.
