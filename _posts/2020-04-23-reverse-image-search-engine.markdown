@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Building a reverse image search engine for items on EBTH"
+title:  "Building a reverse image search engine at EBTH"
 date:   2020-04-18 20:11:51 -0400
 categories: [data science, deep learning, image recognition]
 ---
@@ -46,10 +46,13 @@ Thanks to a blog on benchmarking nearest neighbor algorithms, we stumbled upon A
 **Results**
 
 The results have been quite impressive. Here are a few examples.
-
+<br/>
 <img src="/assets/reverse1.png" align="center" alt="reverse_results1"/>
+<br/>
 <img src="/assets/reverse2.png" align="center" alt="reverse_results2"/>
+<br/>
 <img src="/assets/reverse3.png" align="center" alt="reverse_results3"/>
+<br/>
 
 We will continue to optimize the process to improve accuracy and reduce lookup time.
 
