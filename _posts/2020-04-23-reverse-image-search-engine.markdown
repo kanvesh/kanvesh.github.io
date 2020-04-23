@@ -54,4 +54,4 @@ The results have been quite impressive. Here are a few examples.
 We will continue to optimize the process to improve accuracy and reduce lookup time.
 
 
-<i> This blogpost was first published as a LinkedIn article in Dec 2016 </i>
+<i> This blogpost was first published on [EBTH's Engineering Blog](https://engineering.ebth.com/building-a-reverse-image-search-engine-for-items-on-ebth-2c0fff8f161d) in Feb 2018</i>
