@@ -50,13 +50,13 @@ Thanks to a [blog](https://rare-technologies.com/performance-shootout-of-nearest
 The results have been quite impressive. Here are a few examples.
 <br/>
 <br/>
-<img src="/assets/reverse1.png" align="center" alt="reverse_results1"/>
+![](/assets/reverse1.png)
 <br/>
 <br/>
-<img src="/assets/reverse2.png" align="center" alt="reverse_results2"/>
+![](/assets/reverse2.png)
 <br/>
 <br/>
-<img src="/assets/reverse3.png" align="center" alt="reverse_results3"/>
+![](/assets/reverse3.png)
 <br/>
 <br/>
 
