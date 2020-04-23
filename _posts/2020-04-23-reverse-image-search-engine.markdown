@@ -47,9 +47,9 @@ Thanks to a blog on benchmarking nearest neighbor algorithms, we stumbled upon A
 
 The results have been quite impressive. Here are a few examples.
 
-<img src="/assets/reverse1.jpg" align="center" alt="reverse_results1"/>
-<img src="/assets/reverse2.jpg" align="center" alt="reverse_results2"/>
-<img src="/assets/reverse3.jpg" align="center" alt="reverse_results3"/>
+<img src="/assets/reverse1.png" align="center" alt="reverse_results1"/>
+<img src="/assets/reverse2.png" align="center" alt="reverse_results2"/>
+<img src="/assets/reverse3.png" align="center" alt="reverse_results3"/>
 
 We will continue to optimize the process to improve accuracy and reduce lookup time.
 
