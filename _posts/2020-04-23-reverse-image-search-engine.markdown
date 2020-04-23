@@ -8,6 +8,8 @@ categories: [data science, deep learning, image recognition]
 
 _TL;DR:_ We built a reverse image search engine that looks up similar items sold by EBTH in the past, leveraging deep neural networks built on large image corpuses.
 <!--more-->
+
+
 **Motivation**
 
 
@@ -49,10 +51,13 @@ The results have been quite impressive. Here are a few examples.
 <br/>
 <img src="/assets/reverse1.png" align="center" alt="reverse_results1"/>
 <br/>
+
 <img src="/assets/reverse2.png" align="center" alt="reverse_results2"/>
 <br/>
+
 <img src="/assets/reverse3.png" align="center" alt="reverse_results3"/>
 <br/>
+
 
 We will continue to optimize the process to improve accuracy and reduce lookup time.
 
