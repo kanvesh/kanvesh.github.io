@@ -6,10 +6,9 @@ permalink: /resume/
 
 If you are looking to hire me, this is my [professional resume](/assets/Anvesh.Kollu.Reddi.Gari.Resume.Apr20.pdf).
 
-<hr class="rounded">
-<hr class="rounded">
-<br/>
-<br/>
+<hr>
+<hr>
+
 Far too often while interviewing candidates, I find myself trying to gleam the story from their resumes. So for this page, I thought, why don't I give the story myself. Here goes.
 
 <details><summary>2005-10: Electrical Engineering at IIT Madras:</summary>
