@@ -10,7 +10,7 @@ We built a reverse image search engine that looks up similar items sold by Every
 <!--more-->
 
 
-**Motivation**
+## **Motivation**
 
 
 Items sold at EBTH are one-of-a-kind, but it is quite possible that we sold similar items in the past. Identifying such instances based on a simple photograph early in the process helps us in reducing effort involved in cataloguing and attribution and also in estimating an expected price. Down the road, it could be game changing tool for buyers to search by images from their phone instead of typing in a description. It could also help potential sellers look up the expected value of their item by looking at similar items previously sold at EBTH. The stakes are huge.
