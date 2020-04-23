@@ -6,7 +6,7 @@ categories: [data science, deep learning, image recognition]
 ---
 
 
-We built a reverse image search engine that looks up similar items sold by Everything But The House ([EBTH])(https://ebth.com) in the past, leveraging deep neural networks built on large image corpuses. Here's how we went about finding the solution and implementing it.
+We built a reverse image search engine that looks up similar items sold by Everything But The House ([EBTH](https://ebth.com)) in the past, leveraging deep neural networks built on large image corpuses. Here's how we went about finding the solution and implementing it.
 <!--more-->
 
 
