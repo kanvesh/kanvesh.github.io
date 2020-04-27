@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Data Science and Overkill"
-date:   2020-04-18 20:11:51 -0400
+date:   2016-12-20 00:11:51 -0400
 categories: [data science, analytics]
 ---
 
@@ -26,4 +26,4 @@ If you are modeling where exactly a tropical cyclone is going to have its landfa
 
 There is a lot of hype and expectation around data science and it is easy to get lost in the buzz of it all. Data science is undoubtedly a game changer, but it is essential for data scientists to focus on business impact, for that is what we will be judged on, in the long run.  
 
-<i> This blogpost was first published as a LinkedIn article in Dec 2016 </i>
+_This blogpost was first published as a [LinkedIn article](https://www.linkedin.com/pulse/data-science-overkill-anvesh-kollu-reddi-gari/) in Dec 2016_

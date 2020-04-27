@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Building a reverse image search engine at EBTH"
-date:   2020-04-18 20:11:51 -0400
+date:   2018-02-06 00:11:51 -0400
 categories: [data science, deep learning, image recognition]
 ---
 
