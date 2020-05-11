@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Metrics and Pitfalls - A Though exercise (Part 1)"
-date:   2016-12-20 00:11:51 -0400
+date:   2020-05-11 00:11:51 -0400
 categories: [analytics, product, metrics, twitter]
 ---
 
