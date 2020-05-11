@@ -10,7 +10,7 @@ Hypothetical scenario: I am asked to build a reporting system to monitor the per
 <!--more-->
 
 |-----------------+------------+-----------------+----------------|
-| Default aligned |Left aligned| Center aligned  | Right aligned  |
+| Metrics         |Pros        | Cons            | Importance     |
 |-----------------|:-----------|:---------------:|---------------:|
 | First body part |Second cell | Third cell      | fourth cell    |
 | Second line     |foo         | **strong**      | baz            |
