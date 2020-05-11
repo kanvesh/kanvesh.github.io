@@ -1,1 +1,1 @@
-This is my personal website where I plan to write about my areas of interest: Data, Tech and Product.
+My thoughts on data and consumer-facing Tech. I write not to teach, but to learn.
