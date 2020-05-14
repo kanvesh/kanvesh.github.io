@@ -11,7 +11,7 @@ Hypothetical scenario: I am asked to build a reporting system to monitor the per
 
 |Metric|Pros & Cons|
 |----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|
-| <b>Daily active Users</b> | **Pro:** Even though the groups start with an equal population,  the successful one might encourage users to log in  more often over time. </b> **Con:** Sharp targeting might be attractive initially  but cause burnout over time (same topics, same people)|
-|**Average Time Spent on App**| Great metric to track level of engagement Are users spending a lot of time because its taking  a long  time to get to good stuff? |
-| **Level of engagement with app  (Likes, retweets)**  | Engagement confirms whether the time spent was really worth it  Prolific users tend to dominate engagement metrics. Watch out for the distribution, not just mean values |
-| **Level of engagement with community  (follows, sharing to other platforms)** | Increase in such engagement binds a user to the platform  and decreases the likelihood of churn  | Does not speak for most users who are silent consumers |
+| <b>Daily active Users</b> | **Pro:** Even though the groups start with an equal population,  the successful one might encourage users to log in  more often over time. <br> **Con:** Sharp targeting might be attractive initially  but cause burnout over time (same topics, same people)|
+|**Average Time Spent on App**| **Pro:** Great metric to track level of engagement <br> **Con:** Are users spending a lot of time because its taking  a long  time to get to good stuff? |
+| **Level of engagement with app  (Likes, retweets)**  | **Pro:** Engagement confirms whether the time spent was really worth it  <br> **Con:** Prolific users tend to dominate engagement metrics. Watch out for the distribution, not just mean values |
+| **Level of engagement with community  (follows, sharing to other platforms)** | **Pro:** Increase in such engagement binds a user to the platform  and decreases the likelihood of churn <br> **Con:**  Does not speak for most users who are silent consumers |
