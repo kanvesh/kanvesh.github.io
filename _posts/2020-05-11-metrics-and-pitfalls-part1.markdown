@@ -16,7 +16,7 @@ Product success has several dimensions and it means different things to differen
 | **Level of engagement with community**  _(follows, sharing to other platforms)_ | **Pro:** Increase in such engagement binds the user to the platform and decreases the likelihood of churn <br><br> **Con:**  Does not speak for most users who are silent consumers |
 | **Feedback surveys and focus groups** | **Pro:** No traditional metric captures addiction or general wellbeing <br><br>  **Con:** Expensive and has potential for bias|
 
-**Conclusion**: Even though the first two metrics are widely measured and used, the last three metrics are likely to be better predictors of success for a platform like Twitter.
+**Conclusion**: Even though the first two metrics are widely measured and used, the last three metrics are likely to be better predictors of long term success for a platform like Twitter.
 
 **Notes:**
 <i>
@@ -26,4 +26,4 @@ Product success has several dimensions and it means different things to differen
 4. Remember that measurement is not an exercise to prove your hunch. It is an opportunity to explore and truly understand the dynamics at play.
 </i>
 
-If you have a comment about the blogpost, I would be happy to [hear](mailto:gmail.com) from you!
+I am curious to hear how your company measures success. Feel feel to [drop](mailto:gmail.com) me a comment!
