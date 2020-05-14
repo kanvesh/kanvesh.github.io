@@ -14,10 +14,10 @@ No single metric captures the success (or failure) of a product feature. Perform
 |**Average Time Spent on App**| **Pro:** Great metric to track level of engagement <br><br> **Con:** Are users spending a lot of time because its taking  a long  time to get to good stuff? |
 | **Level of engagement with app**  _(Likes, retweets)_  | **Pro:** Engagement confirms whether the time spent was really worth it  <br><br> **Con:** Prolific users tend to dominate engagement metrics. Watch out for the distribution, not just mean values. |
 | **Level of engagement with community**  _(follows, sharing to other platforms)_ | **Pro:** Increase in such engagement binds the user to the platform and decreases the likelihood of churn <br><br> **Con:**  Does not speak for most users who are silent consumers |
-| **Feedback surveys and focus groups** | **Pro:** No traditional metric captures addiction| **Con:** Expensive and has potential for bias|
+| **Feedback surveys and focus groups** | **Pro:** No traditional metric captures addiction and general wellbeing| **Con:** Expensive and has potential for bias|
 
 **Conclusion**: Even though the first two metrics and widely measured and used, the last three metrics are likely to be better predictors of success for a platform like Twitter.
 
 **Notes:**
-1. I have not considered downstream metrics like revenue generated from ads etc because 1) they are second order metrics with tenuous links and 2) it seems to be accepted wisdom that focusing on the product is the best way to revenue.
+1. I have not considered downstream metrics like revenue generated from ads etc., because 1) they are second order metrics with tenuous links and 2) it seems to be [accepted wisdom](https://youtu.be/raIUQP71SBU?t=586) that focusing on the product is the best way to revenue.
 2.
