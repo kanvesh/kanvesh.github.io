@@ -20,7 +20,7 @@ Product performance has several dimensions and it is important to choose the rig
 
 **Notes:**
 <i>
-1. I have not considered downstream metrics like revenue generated from ads etc., because 1) they are second order metrics with tenuous links to the feature change and 2) it seems to be [accepted wisdom](https://youtu.be/raIUQP71SBU?t=586) that focusing on product experience is the best way to revenue.
+1. I have not considered downstream metrics like revenue generated from ads etc., because, for one, it is a second order metric with tenuous links to the feature change and moreover it seems to be [accepted wisdom](https://youtu.be/raIUQP71SBU?t=586) that focusing on product experience is the best way to revenue.
 2. A feature that works great for a small set of users and so-so for the rest still can come out looking good on average. Pay attention to distribution.
 3. Watch out for novelty effect. Any change is interesting at first, but only if the interest is sustained over time, can the feature claim to be of real impact.
 4. Remember that measurement is not an exercise to prove your hunch. It is an opportunity to explore and truly understand the dynamics at play.
