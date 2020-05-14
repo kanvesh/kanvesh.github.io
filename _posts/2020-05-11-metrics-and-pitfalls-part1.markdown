@@ -26,4 +26,4 @@ Product success has several dimensions and it means different things to differen
 4. _Remember that measurement is not an exercise to prove your hunch. It is an opportunity to explore and truly understand the dynamics at play._
 
 
-How does your company measures success? Feel feel to [drop](mailto:gmail.com) me a comment!
+How does your company measures success? [Drop](mailto:gmail.com) me a comment!
