@@ -6,7 +6,7 @@ categories: [analytics, product, metrics, twitter]
 ---
 
 
-Hypothetical scenario: I am asked to build a reporting system to monitor the performance of a new recommender system on Twitter. I am told that the A/B test is set up such that half the population get the default sort order and another half get the new algorithmic sort. Here are the metrics I would choose and how I would rank them.
+_Hypothetical scenario_: I am asked to build a reporting system to monitor the performance of a new recommender system on Twitter. I am told that the A/B test is set up such that half the population get the default sort order and another half get the new algorithmic sort. Here are the metrics I would choose and how I would rank them.
 <!--more-->
 
 |Metric|Pros & Cons|
