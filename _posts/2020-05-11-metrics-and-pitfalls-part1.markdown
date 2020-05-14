@@ -5,7 +5,7 @@ date:   2020-05-11 00:11:51 -0400
 categories: [analytics, product, metrics, twitter]
 ---
 
-No single metric captures the success (or failure) of a product feature. Performance has several dimensions and it is important to choose the right proxy metrics and really think through how those numbers have the potential to mislead. Here I consider a hypothetical scenario where I am asked to build a reporting system to monitor the performance of a new recommender system on Twitter. This is how I would approach a set of metrics for this use case.
+No single metric captures the success (or failure) of a product feature. Performance has several dimensions and it is important to choose the right proxy metrics and really think through how those numbers have the potential to mislead. <br>Here I consider a hypothetical scenario where I am asked to build a reporting system to monitor the performance of a new recommender system on Twitter. This is how I would approach a set of metrics for this use case.
 <!--more-->
 
 |Metric|Pros & Cons|
