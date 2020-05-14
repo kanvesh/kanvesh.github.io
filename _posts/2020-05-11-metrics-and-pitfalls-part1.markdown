@@ -7,9 +7,8 @@ categories: [analytics, product, metrics, twitter]
 
 Product performance has several dimensions and it is important to choose the right proxy metrics and really think through how those numbers have the potential to mislead. Here I consider a hypothetical scenario where I am asked to build a reporting system to monitor the performance of a new recommender system on Twitter. This is how I would approach a set of metrics for this use case.
 <!--more-->
-<br>
+
 |Metric|Pros & Cons|
-|----------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------|---------|
 | <b>Daily active Users</b> | **Pro:** Users logging in more often is a big win <br><br> **Con:** Sharp targeting might be attractive initially  but cause burnout over time (same topics, same people)|
 |**Average Time Spent on App**| **Pro:** Great metric to track level of engagement <br><br> **Con:** Are users spending a lot of time because its taking  a long  time to get to good stuff? |
 | **Level of engagement with app**  _(Likes, retweets)_  | **Pro:** Engagement confirms whether the time spent was really worth it  <br><br> **Con:** Prolific users tend to dominate engagement metrics. Watch out for the distribution, not just mean values. |
