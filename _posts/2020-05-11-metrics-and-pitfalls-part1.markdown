@@ -25,6 +25,5 @@ Product success has several dimensions and it means different things to differen
 3. _Watch out for novelty effect. Any change is interesting at first, but only if the interest is sustained over time, can the feature claim to be of real impact._
 4. _Remember that measurement is not an exercise to prove your hunch. It is an opportunity to explore and truly understand the dynamics at play._
 
-<br>
 
 How does your company measures success? Feel feel to [drop](mailto:gmail.com) me a comment!
