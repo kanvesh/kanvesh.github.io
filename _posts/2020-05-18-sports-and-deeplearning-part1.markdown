@@ -29,4 +29,4 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 
 **Original** [Vimeo Link](https://vimeo.com/419878487)
 
-**Processed**[Vimeo Link](https://vimeo.com/manage/419878633)
+**Processed**[Vimeo Link](https://vimeo.com/419878633)
