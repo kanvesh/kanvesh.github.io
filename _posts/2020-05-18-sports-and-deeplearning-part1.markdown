@@ -22,13 +22,19 @@ The unit of play in Cricket is the _Over_ and each over has six _balls_(each bal
 While the conditions for what constitutes the _end_ of a ball is harder, given the multiple possibilities, the conditions _start_ of a ball is fairly consistent. It starts with the bowler running from behind the umpire and delivering the ball at crease. To identify the start of a ball, I manually annotated a bunch of images as either 'Delivery Stride' or 'Other'. Here are some images after they have been passed through an edge detector. If you squint your eyes, you will notice that there is a really distinct pattern among the images that are part of delivery stride.
 
 <br/>
-![](/assets/cricket-1/edge-images.png)
+![](/assets/greensight-1/edge-images.png)
 <br/>
 
 I added a couple of layers to a pre-built VGG neural network and trained it using these annotated images, the results were really good. I tested on video from another match and the results were equally good. The model seems to have generalized well. The model need not to be right on every frame, as long as it would identify a cluster of frames with high likelihood of being the _start_ of the ball. And by simply assuming that the _duration_ of the ball being alive on an average is 6-8 seconds, one can identify passages of play with a great amount of accuracy. Here is an example of an over that was cut using the method described above.
 **Original**
 <br/>
-![](greensight/original.mp4)
+<!-- blank line -->
+<figure class="video_container">
+  <video controls="true" allowfullscreen="true" poster="/assets/greensight-1/edge-images.png">
+    <source src="greensight-1/original.mp4" type="video/mp4">
+  </video>
+</figure>
+<!-- blank line -->
 <br/>
 **Processed**
 <br/>
