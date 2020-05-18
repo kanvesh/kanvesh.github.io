@@ -32,5 +32,5 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 **Processed**[Vimeo Link](https://vimeo.com/419878633){:target="_blank"}
 
 <figure class="video_container">
-  <iframe src="https://vimeo.com/419878633" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/open?id=1k79rkoS2w0_IZeUXzdyXKxWNORWXjjCC" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
