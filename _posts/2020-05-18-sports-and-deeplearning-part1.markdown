@@ -30,3 +30,7 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 **Original** [Vimeo Link](https://vimeo.com/419878487){:target="_blank"}
 
 **Processed**[Vimeo Link](https://vimeo.com/419878633){:target="_blank"}
+
+<figure class="video_container">
+  <iframe src="https://vimeo.com/419878633" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
