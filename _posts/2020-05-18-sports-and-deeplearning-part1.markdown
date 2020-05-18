@@ -29,15 +29,13 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 
 **Original**
 <br/>
-<!-- blank line -->
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="/assets/greensight-1/edge-images.png">
     <source src="greensight-1/original.mp4" type="video/mp4">
   </video>
 </figure>
-<!-- blank line -->
 <br/>
-**Processed2**
+**Processed**
 <br/>
-![Video](greensight-1/cut.mp4)
+![Video](https://vimeo.com/219415071)
 <br/>
