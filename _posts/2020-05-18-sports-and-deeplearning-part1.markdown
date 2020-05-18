@@ -39,5 +39,5 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 <br/>
 **Processed2**
 <br/>
-![Video](greensight/cut.mp4)
+![Video](greensight-1/cut.mp4)
 <br/>
