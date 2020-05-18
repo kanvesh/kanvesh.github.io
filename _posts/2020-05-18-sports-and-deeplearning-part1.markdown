@@ -36,5 +36,11 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 </figure>
 
 <figure class="video_container">
-  <iframe src="https://drive.google.com/file/d/1nZt_Yf7upSSX2gX50VX4S60RlHZUPq-1/view?usp=sharing" frameborder="0" allowfullscreen="true"> </iframe>
+  <iframe src="https://drive.google.com/open?id=1nZt_Yf7upSSX2gX50VX4S60RlHZUPq-1" frameborder="0" allowfullscreen="true"> </iframe>
+</figure>
+
+
+
+<figure class="video_container">
+  <iframe src="https://drive.google.com/file/d/1nZt_Yf7upSSX2gX50VX4S60RlHZUPq-1/view" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
