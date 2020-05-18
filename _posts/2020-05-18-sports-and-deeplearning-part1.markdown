@@ -32,6 +32,7 @@ I added a couple of layers to a pre-built VGG neural network and trained it usin
 <figure class="video_container">
   <video controls="true" allowfullscreen="true" poster="/assets/greensight-1/edge-images.png">
     <source src="greensight-1/original.mp4" type="video/mp4">
+Your browser does not support the video tag.
   </video>
 </figure>
 <br/>
