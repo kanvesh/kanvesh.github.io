@@ -27,9 +27,9 @@ While the conditions for what constitutes the _end_ of a ball is harder, given t
 
 I added a couple of layers to a pre-built VGG neural network and trained it using these annotated images, the results were really good. I tested on video from another match and the results were equally good. The model seems to have generalized well. The model need not to be right on every frame, as long as it would identify a cluster of frames with high likelihood of being the _start_ of the ball. And by simply assuming that the _duration_ of the ball being alive on an average is 6-8 seconds, one can identify passages of play with a great amount of accuracy. Here is an example of an over that was cut using the method described above.
 
-**Original** [Vimeo Link](https://vimeo.com/419878487){:target="_blank"}
+**Original:** [Vimeo Link](https://vimeo.com/419878487){:target="_blank"}
 
-**Processed**[Vimeo Link](https://vimeo.com/419878633){:target="_blank"}
+**Processed:** [Vimeo Link](https://vimeo.com/419878633){:target="_blank"}
 
 <figure class="video_container">
   <iframe src="https://drive.google.com/open?id=1k79rkoS2w0_IZeUXzdyXKxWNORWXjjCC" frameborder="0" allowfullscreen="true"> </iframe>
