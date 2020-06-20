@@ -12,7 +12,7 @@ This is Chintu's first post on web
 ## **Don't use an sledgehammer to crack a nut**
 
 ## Movies
-**Favourite movie**: Avengers Endgame
+**Favourite movie**: Avengers Endgame<br/>
 __Favourite character__: Ironman
 
 ## Sports
