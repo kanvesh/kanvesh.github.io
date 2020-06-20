@@ -9,7 +9,6 @@ categories: [personal]
 This is Chintu's first post on web
 
 <!--more-->
-## **Don't use an sledgehammer to crack a nut**
 
 ## Movies
 **Favourite movie**: Avengers Endgame<br/>
