@@ -13,7 +13,7 @@ This is Chintu's first post on web
 
 ## Movies
 **Favourite movie**: Avengers Endgame
-_Favourite character_: Ironman
+__Favourite character__: Ironman
 
 ## Sports
 **Fav sport**: Soccer
