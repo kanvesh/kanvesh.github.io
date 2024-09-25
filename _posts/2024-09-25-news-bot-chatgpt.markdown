@@ -15,4 +15,10 @@ I asked chatgpt to make jokes about headlines.
 
 ![chatgpt jokes](/assets/chatgpt-jokes.png)
 
-There are hits and misses, but 
+There are hits and misses, but 6) was a pretty good one and 7) had context (Delhi being famous for its smog). I did see fair many that I laughed out loud.
+
+But this is where it gets tricky. It does not seem to understand how funny its own jokes are. 
+
+![chatgpt jokes funny](/assets/funny-chatgpt.png)
+
+These ones somehow just seem to miss the mark
