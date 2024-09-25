@@ -12,3 +12,4 @@ For a long time, I thought sarcasm was the ultimate test for an intelligent mach
 
 ---
 
+![Alt text](assets/chatgpt-jokes.png)
