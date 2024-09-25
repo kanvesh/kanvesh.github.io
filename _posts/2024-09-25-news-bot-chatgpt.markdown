@@ -9,3 +9,6 @@ I have taken inspiration from [Joe Hovde](https://www.residualthoughts.com/about
 
 For a long time, I thought sarcasm was the ultimate test for an intelligent machine. You need to get some many things like context, references and timing to make a witty remark. We are now officially there. Chatgpt is amazing at sarcasm. Some examles for you.
 <!--more-->
+
+---
+
