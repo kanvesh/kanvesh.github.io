@@ -18,7 +18,7 @@ There are hits and misses, but 6) was a pretty good one and 7) had context (Delh
 
 But this is where it gets tricky. It does not seem to understand how funny its own jokes are. 
 
-![chatgpt jokes funny](/assets/funny-chatgpt.png)
+![chatgpt jokes funny](/assets/specific-funny.png)
 
 These ones somehow just seem to miss the mark, as if its trying hard to make joke but failing badly.
 
