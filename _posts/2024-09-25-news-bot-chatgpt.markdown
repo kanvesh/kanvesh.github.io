@@ -14,7 +14,7 @@ For a long time, I thought sarcasm was the ultimate test for an intelligent mach
 
 ![chatgpt jokes](/assets/chatgpt-jokes.png)
 
-There are hits and misses, but 6) was a pretty good one and 7) had context (Delhi being famous for its smog). I did see fair many that I laughed out loud.
+There are hits and misses, but 6) was a pretty good one and 7) had context (Delhi being famous for its smog). I did see fair many during my research that I laughed out loud.
 
 But this is where it gets tricky. It does not seem to understand how funny its own jokes are. 
 
