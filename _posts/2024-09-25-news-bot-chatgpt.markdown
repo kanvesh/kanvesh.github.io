@@ -8,9 +8,7 @@ categories: [ai, chatgpt, media, nocode, twitter, bot]
 
 *I have taken inspiration from [Joe Hovde](https://www.residualthoughts.com/about/) and decided to restart this blog more like a journal than like fully-rounded articles. So bear with me.*
 
-**Is ChatGPT good at sarcasm? You betcha**
-
-For a long time, I thought sarcasm was the ultimate test for an intelligent machine. You need to get some many things like context, references and timing to make a witty remark. We are now officially there. Chatgpt is amazing at sarcasm. Some examles for you.
+For a long time, I thought sarcasm was the ultimate test for an intelligent machine. You need to get some many things like context, references and timing to make a witty remark. We are now officially there. Chatgpt is amazing at sarcasm. Some examples for you.
 <!--more-->
 
 ![chatgpt jokes](/assets/chatgpt-jokes.png)
