@@ -13,9 +13,9 @@ For a long time, I thought sarcasm was the ultimate test for an intelligent mach
 
 ![chatgpt jokes](/assets/chatgpt-jokes.png)
 
-There are hits and misses, but 6) was a pretty good one and 7) had context (Delhi being famous for its smog). I did see fair many during my research that I laughed out loud.
+There are hits and misses, but 6) was a pretty good one and 7) had context (Delhi being famous for its smog). I did see fair many during my research that made me laugh out loud.
 
-So I thought why don't we have a website/twitter account which gives news along with a sharp cynical comment, saving you from the effort of rolling your eyes too many items. I love the idea and went about asking chatgpt to find especially funny ones. But this is where it gets tricky. When specifically asked for funny headlines, it seems to fail.
+So I thought why don't we have a website/twitter account which gives news along with a cynical comment, saving you from the effort of rolling your eyes too many items. I loved the idea and went about asking chatgpt to find and filter the extra funny ones. But this is where it gets tricky. When specifically asked for funny headlines, it seems to fail.
 
 **Not really self-aware I guess**
 
