@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "News with a cynic's comment"
+title:  "News with a snigger - courtesy of ChatGPT"
 date:   2024-09-25 
 categories: [ai, chatgpt, media, nocode, twitter, bot]
 ---
