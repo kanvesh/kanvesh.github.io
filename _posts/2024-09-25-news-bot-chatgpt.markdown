@@ -11,5 +11,8 @@ For a long time, I thought sarcasm was the ultimate test for an intelligent mach
 <!--more-->
 
 ---
+I asked chatgpt to make jokes about headlines.
 
 ![chatgpt jokes](/assets/chatgpt-jokes.png)
+
+There are hits and misses, but 
