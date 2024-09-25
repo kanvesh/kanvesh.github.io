@@ -21,4 +21,4 @@ But this is where it gets tricky. It does not seem to understand how funny its o
 
 ![chatgpt jokes funny](/assets/funny-chatgpt.png)
 
-These ones somehow just seem to miss the mark
+These ones somehow just seem to miss the mark, as if its trying hard to make joke but failing badly.
